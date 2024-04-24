@@ -73,5 +73,10 @@
   "region": {
     "select": "Выберите континент",
     "change": "Сменить континент"
+  },
+  "lastActive": {
+    "operator": "Оператор",
+    "recentlyUpdated": "Платформа была недавно обновлена.",
+    "guaranteedInsert": "Гарантированная вставка в течение {lastActive} часов"
   }
 }

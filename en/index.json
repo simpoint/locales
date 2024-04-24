@@ -129,5 +129,10 @@
   "region": {
     "select": "Select a region",
     "change": "Change region"
+  },
+  "lastActive": {
+    "operator": "Operator",
+    "recentlyUpdated": "Platform has been recently updated.",
+    "guaranteedInsert": "Guaranteed insertion within {lastActive} hours"
   }
 }

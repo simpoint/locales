@@ -73,5 +73,10 @@
   "region": {
     "select": "대륙 선택",
     "change": "대륙 변경"
+  },
+  "lastActive": {
+    "operator": "오퍼레이터",
+    "recentlyUpdated": "플랫폼이 최근에 업데이트되었습니다.",
+    "guaranteedInsert": "{lastActive} 시간 이내 보장된 삽입"
   }
 }

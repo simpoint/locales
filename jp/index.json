@@ -72,5 +72,10 @@
   "region": {
     "select": "大陸を選択",
     "change": "大陸を変更"
+  },
+  "lastActive": {
+    "operator": "オペレーター",
+    "recentlyUpdated": "プラットフォームは最近更新されました。",
+    "guaranteedInsert": "{lastActive} 時間以内の保証された挿入"
   }
 }

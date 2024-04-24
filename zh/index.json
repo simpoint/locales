@@ -73,5 +73,10 @@
   "region": {
     "select": "选择一个大陆",
     "change": "切换大陆"
+  },
+  "lastActive": {
+    "operator": "运营商",
+    "recentlyUpdated": "平台最近已更新。",
+    "guaranteedInsert": "{lastActive} 小时内保证插入"
   }
 }

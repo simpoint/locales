@@ -110,5 +110,10 @@
   "region": {
     "select": "Selecione um continente",
     "change": "Mudar de continente"
+  },
+  "lastActive": {
+    "operator": "Operador",
+    "recentlyUpdated": "A plataforma foi atualizada recentemente.",
+    "guaranteedInsert": "Inserção garantida dentro de {lastActive} horas"
   }
 }

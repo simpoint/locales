@@ -73,5 +73,10 @@
   "region": {
     "select": "選擇一個大陸",
     "change": "切換大陸"
+  },
+  "lastActive": {
+    "operator": "操作者",
+    "recentlyUpdated": "平台最近已更新。",
+    "guaranteedInsert": "{lastActive} 小時內保證插入"
   }
 }
