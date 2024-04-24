@@ -79,16 +79,16 @@
                     "title": "One-time Submit",
                     "action": "Register",
                     "perks": {
-                    "perk1": "Basic marker on our map",
+                    "perk1": "Marker on our map",
                         "perk2": "Dedicated page (minimal)"
                 }
             },
             "basic": {
                 "heading": "for experienced brands",
                     "title": "Premium Plan",
-                    "action": "Register",
+                    "action": "Subscribe",
                     "perks": {
-                    "perk1": "Basic marker on our map",
+                    "perk1": "Marker on our map",
                         "perk2": "Dedicated page (advanced)",
                         "perk3": "Unlimited change requests",
                         "perk4": "Appear above others with free plan",
@@ -103,14 +103,14 @@
                     "price": "Contact us",
                     "action": "Get in touch",
                     "perks": {
-                    "perk1": "Basic marker on our map",
+                    "perk1": "Marker on our map",
                         "perk2": "Dedicated page (advanced)",
                         "perk3": "Unlimited change requests",
                         "perk4": "Appear above others with free plan",
                         "perk5": "Highlighted social profiles",
                         "perk6": "Tags: rally, virtual reality, etc",
                         "perk7": "Featured logo with external link",
-                        "perk8": "Custom marker color or icon",
+                        "perk8": "Custom marker icon or color",
                         "perk9": "Request a dedicated banner"
                 }
             }

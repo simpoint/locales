@@ -78,16 +78,16 @@
                     "title": "One-time Submit",
                     "action": "Registrati",
                     "perks": {
-                    "perk1": "Marker basico sulla mappa",
+                    "perk1": "Marker sulla mappa",
                         "perk2": "Pagina dedicata (minimale)"
                 }
             },
             "basic": {
                 "heading": "per i più esperti",
                     "title": "Piano Premium",
-                    "action": "Registrati",
+                    "action": "Sottoscrivi",
                     "perks": {
-                    "perk1": "Marker basico sulla mappa",
+                    "perk1": "Marker sulla mappa",
                         "perk2": "Pagina dedicata (su misura)",
                         "perk3": "Richieste di modifica senza limiti",
                         "perk4": "Compari sopra chi ha il piano free",
@@ -101,7 +101,7 @@
                     "price": "Contattaci",
                     "action": "Più informazioni",
                     "perks": {
-                    "perk1": "Marker basico sulla mappa",
+                    "perk1": "Marker sulla mappa",
                         "perk2": "Pagina dedicata (su misura)",
                         "perk3": "Richieste di modifica senza limiti",
                         "perk4": "Compari sopra chi ha il piano free",
