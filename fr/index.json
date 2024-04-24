@@ -1,0 +1,127 @@
+{
+    "application": {
+    "title": "Sim Racing en {country}",
+        "subtitle": "Votre expérience de conduite virtuelle"
+},
+    "dedicatedSite": {
+    "visit": "Visitez {website}"
+},
+    "$vuetify": {
+    "open": "Open",
+        "close": "Close"
+},
+    "common": {
+    "simpoint": "Sim Point Racing",
+        "register": "Enregistrez votre Sim Point",
+        "promoteSimPoint": "Promouvoir votre Sim Point",
+        "promoteBrand": "Promouvoir votre marque",
+        "joinDiscord": "Rejoignez notre Discord",
+        "exploreMap": "Explorer la carte",
+        "perYear": "année"
+},
+    "action": {
+    "register": "Inscrire",
+        "promote": "Promouvoir",
+        "contact": "Contactez-nous",
+        "discover": "Découvrir",
+        "support": "Support"
+},
+    "pages": {
+    "index": {
+        "meta": {
+            "title": "Sim Point - Votre expérience de course virtuelle",
+                "description": "Découvrez notre réseau de centres de simulation de course sportive ! Trouvez le centre de simulation de conduite le plus proche sur Sim Point Racing"
+        },
+        "column": {
+            "description": "Découvrez notre réseau de centres de simulation de conduite sportive ! Trouvez le centre de simulation le plus proche"
+        },
+        "intro": {
+            "title": "Votre expérience de conduite virtuelle",
+                "description": "Découvrez le vaste réseau de centres de simulation de course sportive à travers le monde avec<br />notre carte interactive. Trouvez des endroits pour vivre la simulation et connectez-vous avec d'autres<br />passionnés de course virtuelle. Votre aventure dans le monde de la conduite virtuelle commence ici."
+        }
+    },
+    "country": {
+        "meta": {
+            "title": "Sim Racing {country} - Simulateurs de course en {country}",
+                "description": "Découvrez le Sim Racing en {country}. Trouvez les simulateurs de course les plus proches de vous en {country} et vivez l'expérience virtuelle de la simulation de conduite professionnelle"
+        },
+        "heading": "Ton expérience de Sim Racing en {country}"
+    },
+    "region": {
+        "heading": "Simulateurs de course en {location}",
+            "meta": {
+            "title": "Sim Racing {location} - Simulateurs de course",
+                "description": "Carte des simulateurs de course à {location} de notre réseau de Sim Racing, conduite de voitures classiques, sportives, Gran Turismo, voitures de rallye et Formule 1 à {location}, {country}"
+        }
+    },
+    "province": {
+        "heading": "Simulateurs de course à {location}",
+            "meta": {
+            "title": "Sim Racing {location} - Simulateurs de course",
+                "description": "Carte des simulateurs de course à {location} de notre réseau de Sim Racing, conduite de voitures classiques, sportives, voitures de rallye, Gran Turismo et Formule 1 à {location} en {country}"
+        }
+    },
+    "hub": {
+        "meta": {
+            "title": "{hubName} - Sim Racing {location}",
+                "description": "Participez au centre de simulation de conduite sportive {hubName} et vivez l'expérience de la conduite virtuelle avec le Sim Racing en {country}"
+        }
+    },
+    "pricing": {
+        "plans": {
+            "free": {
+                "heading": "pour les nouveaux arrivants",
+                    "title": "Soumission unique",
+                    "action": "S'abonner",
+                    "perks": {
+                    "perk1": "Visible sur notre carte",
+                        "perk2": "Page dédiée (minimale)"
+                }
+            },
+            "basic": {
+                "heading": "pour les plus expérimentés",
+                    "title": "Plan Premium",
+                    "action": "S'abonner",
+                    "perks": {
+                    "perk1": "Visible sur notre carte",
+                        "perk2": "Page dédiée (avancée)",
+                        "perk3": "Demandes de changement illimitées",
+                        "perk4": "Mise en avant dans la liste",
+                        "perk5": "Réseaux sociaux affichés dans la liste",
+                        "perk6": "Tags : rallye, réalité virtuelle, etc"
+                }
+            },
+            "premium": {
+                "heading": "per les plus exigeants",
+                    "title": "Plan Premium",
+                    "price": "Contactez-nous",
+                    "action": "Obtenez un devis",
+                    "perks": {
+                    "perk1": "Visible sur notre carte",
+                        "perk2": "Page dédiée (avancée)",
+                        "perk3": "Demandes de changement illimitées",
+                        "perk4": "Mise en avant dans la liste",
+                        "perk5": "Réseaux sociaux affichés dans la liste",
+                        "perk6": "Tags : rallye, réalité virtuelle, etc",
+                        "perk7": "Logo mis en avant avec lien externe",
+                        "perk8": "Marqueur personnalisé sur notre carte",
+                        "perk9": "Demande de bannière dédiée"
+                }
+            }
+        }
+    }
+},
+    "place": {
+    "select": "Sélectionnez une région",
+        "noData": "Il semble qu'aucun Sim Point ne soit présent dans cette zone pour le moment",
+        "add": "Vous gérez un centre de simulation ou créez des composants et souhaitez vous promouvoir ?"
+},
+    "country": {
+    "select": "Sélectionnez un pays",
+        "noData": "Il semble que ce continent n'ait aucun point de Sim Racing à montrer"
+},
+    "region": {
+    "select": "Sélectionnez un continent",
+        "change": "Changer de continent"
+}
+}

@@ -1,0 +1,77 @@
+{
+  "application": {
+    "subtitle": "您的虚拟驾驶体验"
+  },
+  "dedicatedSite": {
+    "visit": "访问{website}"
+  },
+  "$vuetify": {
+    "open": "Open",
+    "close": "Close"
+  },
+  "common": {
+    "simpoint": "模拟驾驶点赛车",
+    "register": "注册您的模拟驾驶点",
+    "promoteSimPoint": "宣传您的模拟赛车场",
+    "promoteBrand": "宣传您的品牌",
+    "joinDiscord": "加入我们的Discord",
+    "exploreMap": "探索地图",
+    "perYear": "年"
+  },
+  "action": {
+    "register": "注册",
+    "promote": "促进",
+    "discover": "发现",
+    "support": "支持"
+  },
+  "pages": {
+    "index": {
+      "meta": {
+        "title": "Sim Point - 您的虚拟赛车体验",
+        "description": "探索我们的运动赛车模拟中心网络！在 Sim Point Racing 上找到最近的驾驶模拟中心"
+      },
+      "column": {
+        "description": "探索我们的运动驾驶模拟中心网络！在 Sim Point Racing 上找到最近的驾驶模拟中心"
+      },
+      "intro": {
+        "title": "您的虚拟驾驶体验",
+        "description": "通过我们的交互式地图发现全球范围内的运动赛车模拟中心网络 。找到体验模拟的地方，并与其他赛车模拟爱好者联系。您在虚拟驾驶世界的冒险从这里开始。"
+      }
+    },
+    "country": {
+      "meta": {
+        "title": "Sim Racing {country} - 赛车模拟器 {country}",
+        "description": "探索 {country} 的 Sim Racing。找到离您最近的 {country} 赛车模拟器，体验虚拟专业赛车模拟的奇妙体验。"
+      },
+      "heading": "你在{country}的模拟赛车体验"
+    },
+    "region": {
+      "heading": "{location} 的赛车模拟器",
+      "meta": {
+        "title": "Sim Racing {location} - 赛车模拟器",
+        "description": "我们 Sim Racing 网络中 {location} 的赛车模拟器地图。在 {location}, {country} 驾驶古董车、运动车、Gran Turismo、拉力赛车和 Formula 1。"
+      }
+    },
+    "province": {
+      "heading": "{location} 的赛车模拟器",
+      "meta": {
+        "title": "Sim Racing {location} - 赛车模拟器",
+        "description": "我们 Sim Racing 网络中 {location} 的赛车模拟器地图。在 {location} 的 {country} 驾驶古董车、运动车、拉力赛车、Gran Turismo 和 Formula 1。"
+      }
+    },
+    "hub": {
+      "meta": {
+        "title": "{hubName} - Sim Racing {location}",
+        "description": "参加 {hubName} 运动驾驶模拟中心，体验 {country} 的 Sim Racing 虚拟驾驶。"
+      }
+    }
+  },
+  "country": {
+    "select": "选择一个国家",
+    "noData": "似乎这个大陆没有任何Sim Racing Point可展示"
+  },
+  "region": {
+    "select": "选择一个大陆",
+    "change": "切换大陆"
+  }
+}
