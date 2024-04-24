@@ -1,77 +1,77 @@
 {
-    "application": {
+  "application": {
     "subtitle": "您的虛擬駕駛體驗"
-},
-    "dedicatedSite": {
+  },
+  "dedicatedSite": {
     "visit": "訪問 {website}"
-},
-    "$vuetify": {
+  },
+  "$vuetify": {
     "open": "Open",
-        "close": "Close"
-},
-    "common": {
+    "close": "Close"
+  },
+  "common": {
     "simpoint": "模擬駕駛點賽車",
-        "register": "註冊您的模擬駕駛點",
-        "promoteSimPoint": "推廣你的模擬賽車點",
-        "promoteBrand": "宣傳您的品牌",
-        "joinDiscord": "加入我們的Discord",
-        "exploreMap": "探索地圖",
-        "perYear": "年"
-},
-    "action": {
+    "register": "註冊您的模擬駕駛點",
+    "promoteSimPoint": "推廣你的模擬賽車點",
+    "promoteBrand": "宣傳您的品牌",
+    "joinDiscord": "加入我們的Discord",
+    "exploreMap": "探索地圖",
+    "perYear": "年"
+  },
+  "action": {
     "register": "註冊",
-        "promote": "促進",
-        "discover": "發現",
-        "support": "支援"
-},
-    "pages": {
+    "promote": "促進",
+    "discover": "發現",
+    "support": "支援"
+  },
+  "pages": {
     "index": {
-        "meta": {
-            "title": "Sim Point - 您的虛擬賽車體驗",
-                "description": "發現我們的運動賽車模擬中心網絡！在 Sim Point Racing 上找到最近的駕駛模擬中心"
-        },
-        "column": {
-            "description": "發現我們的運動駕駛模擬中心網絡！在 Sim Point Racing 上找到最近的駕駛模擬中心"
-        },
-        "intro": {
-            "title": "您的虛擬駕駛體驗",
-                "description": "發現世界各地運動賽車模擬中心的龐大網絡 與我們的互動地圖。尋找體驗模擬的地方，並與其他 模擬賽車愛好者聯繫。您在虛擬駕駛世界的冒險從這裡開始。"
-        }
+      "meta": {
+        "title": "Sim Point - 您的虛擬賽車體驗",
+        "description": "發現我們的運動賽車模擬中心網絡！在 Sim Point Racing 上找到最近的駕駛模擬中心"
+      },
+      "column": {
+        "description": "發現我們的運動駕駛模擬中心網絡！在 Sim Point Racing 上找到最近的駕駛模擬中心"
+      },
+      "intro": {
+        "title": "您的虛擬駕駛體驗",
+        "description": "發現世界各地運動賽車模擬中心的龐大網絡 與我們的互動地圖。尋找體驗模擬的地方，並與其他 模擬賽車愛好者聯繫。您在虛擬駕駛世界的冒險從這裡開始。"
+      }
     },
     "country": {
-        "meta": {
-            "title": "Sim Racing {country} - 賽車模擬器 {country}",
-                "description": "在 {country} 探索 Sim Racing。找到最接近您的 {country} 賽車模擬器，體驗虛擬專業賽車模擬的奇妙體驗。"
-        },
-        "heading": "你在{country}的模擬賽車體驗"
+      "meta": {
+        "title": "Sim Racing {country} - 賽車模擬器 {country}",
+        "description": "在 {country} 探索 Sim Racing。找到最接近您的 {country} 賽車模擬器，體驗虛擬專業賽車模擬的奇妙體驗。"
+      },
+      "heading": "你在{country}的模擬賽車體驗"
     },
     "region": {
-        "heading": "{location} 的賽車模擬器",
-            "meta": {
-            "title": "Sim Racing {location} - 賽車模擬器",
-                "description": "我們 Sim Racing 網絡中 {location} 的賽車模擬器地圖。在 {location}, {country} 駕駛古董車、運動車、Gran Turismo、拉力賽車和 Formula 1。"
-        }
+      "heading": "{location} 的賽車模擬器",
+      "meta": {
+        "title": "Sim Racing {location} - 賽車模擬器",
+        "description": "我們 Sim Racing 網絡中 {location} 的賽車模擬器地圖。在 {location}, {country} 駕駛古董車、運動車、Gran Turismo、拉力賽車和 Formula 1。"
+      }
     },
     "province": {
-        "heading": "{location} 的賽車模擬器",
-            "meta": {
-            "title": "Sim Racing {location} - 賽車模擬器",
-                "description": "我們 Sim Racing 網絡中 {location} 的賽車模擬器地圖。在 {location} 的 {country} 駕駛古董車、運動車、拉力賽車、Gran Turismo 和 Formula 1。"
-        }
+      "heading": "{location} 的賽車模擬器",
+      "meta": {
+        "title": "Sim Racing {location} - 賽車模擬器",
+        "description": "我們 Sim Racing 網絡中 {location} 的賽車模擬器地圖。在 {location} 的 {country} 駕駛古董車、運動車、拉力賽車、Gran Turismo 和 Formula 1。"
+      }
     },
     "hub": {
-        "meta": {
-            "title": "{hubName} - Sim Racing {location}",
-                "description": "參加 {hubName} 運動駕駛模擬中心，體驗 {country} 的 Sim Racing 虛擬駕駛。"
-        }
+      "meta": {
+        "title": "{hubName} - Sim Racing {location}",
+        "description": "參加 {hubName} 運動駕駛模擬中心，體驗 {country} 的 Sim Racing 虛擬駕駛。"
+      }
     }
-},
-    "country": {
+  },
+  "country": {
     "select": "選擇一個國家",
-        "noData": "似乎這個大陸沒有任何Sim Racing Point可展示"
-},
-    "region": {
+    "noData": "似乎這個大陸沒有任何Sim Racing Point可展示"
+  },
+  "region": {
     "select": "選擇一個大陸",
-        "change": "切換大陸"
-}
+    "change": "切換大陸"
+  }
 }

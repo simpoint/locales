@@ -1,124 +1,124 @@
 {
-    "application": {
-        "subtitle": "Dein virtuelles Fahrerlebnis"
-    },
-    "dedicatedSite": {
-        "visit": "Besuche {website}"
-    },
-    "$vuetify": {
-        "open": "Open",
-        "close": "Close"
-    },
-    "common": {
-        "simpoint": "Sim Point Racing",
-        "register": "Registriere deinen Sim Point",
-        "promoteSimPoint": "Fördern Sie Ihren Sim Point",
-        "promoteBrand": "Fördern Sie Ihre Marke",
-        "joinDiscord": "Treten Sie unserem Discord bei",
-        "exploreMap": "Karte erkunden",
-        "perYear": "Jahr"
-    },
-    "action": {
-        "register": "Registrieren",
-        "promote": "Fördern",
-        "discover": "Entdecken",
-        "support": "Unterstützung",
-        "contact": "Kontakt"
-    },
-    "pages": {
-        "index": {
-            "meta": {
-                "title": "Sim Point - Deine virtuelle Rennsport-Erfahrung",
-                "description": "Entdecke unser Netzwerk von Sport-Rennsimulationszentren! Finde das nächstgelegene Fahrsimulationszentrum auf Sim Point Racing"
-            },
-            "column": {
-                "description": "Entdecken Sie das Netzwerk der Sportfahrsimulationszentren! Finden Sie das nächstgelegene auf unserer Karte"
-            },
-            "intro": {
-                "title": "Deine virtuelle Fahrerfahrung",
-                "description": "Entdecke das umfangreiche Netzwerk von Sport-Rennsimulationszentren auf der ganzen Welt mit<br />unserer interaktiven Karte. Finde Orte, um Simulationen zu erleben und mit anderen Enthusiasten in<br />Kontakt zu treten. Dein Abenteuer in der Welt des virtuellen Fahrens beginnt hier."
-            }
-        },
-        "country": {
-            "meta": {
-                "title": "Sim Racing {country} - Rennsimulator in {country}",
-                "description": "Entdecken Sie Sim Racing in {country}. Finden Sie die nächstgelegenen Sportwagen-Simulatoren in {country} und erleben Sie das virtuelle Fahrerlebnis professioneller Fahrzeugsimulationen"
-            },
-            "heading": "Deine Sim-Racing-Erfahrung in {country}"
-        },
-        "region": {
-            "heading": "Rennsimulator in {location}",
-            "meta": {
-                "title": "Sim Racing {location} - Rennsimulator",
-                "description": "Karte der Rennsimulator in {location} unseres Sim Racing Netzwerks, klassische Autos, Sportwagen, Gran Turismo, Rallyeautos und Formel-1-Fahrzeuge in {location}, {country}"
-            }
-        },
-        "province": {
-            "heading": "Rennsimulator in {location}",
-            "meta": {
-                "title": "Sim Racing {location} - Rennsimulator",
-                "description": "Karte der Rennsimulator in {location} unseres Sim Racing Netzwerks, klassische Autos, Sportwagen, Rallyeautos, Gran Turismo und Formel-1-Fahrzeuge in {location}, {country}"
-            }
-        },
-        "hub": {
-            "meta": {
-                "title": "{hubName} - Sim Racing {location}",
-                "description": "Nehmen Sie am Sportwagen-Simulationszentrum {hubName} teil und erleben Sie das virtuelle Fahrerlebnis mit Sim Racing in {country}"
-            }
-        },
-        "pricing": {
-            "plans": {
-                "free": {
-                    "heading": "für neulinge",
-                    "title": "Einmaliges Einreichen",
-                    "action": "Abonnieren",
-                    "perks": {
-                        "perk1": "Auf der Karte sichtbar",
-                        "perk2": "Dedizierte Seite (minimal)"
-                    }
-                },
-                "basic": {
-                    "heading": "für erfahrene marken",
-                    "title": "Premium-Plan",
-                    "action": "Abonnieren",
-                    "perks": {
-                        "perk1": "Auf der Karte sichtbar",
-                        "perk2": "Eigenständige Seite",
-                        "perk3": "Unbegrenzte Änderungswünsche",
-                        "perk4": "Höher in der Liste erscheinen",
-                        "perk5": "Soziale Medien in der Liste",
-                        "perk6": "Tags: Rallye, virtuelle Realität"
-                    }
-                },
-                "premium": {
-                    "heading": "für anspruchsvolle marken",
-                    "title": "Premiumplan",
-                    "price": "Kontaktiere uns",
-                    "action": "Angebot erhalten",
-                    "perks": {
-                        "perk1": "Auf der Karte sichtbar",
-                        "perk2": "Eigenständige Seite",
-                        "perk3": "Unbegrenzte Änderungswünsche",
-                        "perk4": "Höher in der Liste erscheinen",
-                        "perk5": "Soziale Medien in der Liste",
-                        "perk6": "Tags: Rallye, virtuelle Realität",
-                        "perk7": "Hervorgehobenes Logo & Link",
-                        "perk8": "Benutzerdefiniertes Symbol auf Karte",
-                        "perk9": "Anfrage für dedizierten Banner"
-                    }
-                }
-            }
-        }
-    },
-    "place": {
-        "select": "Wähle eine Region aus"
+  "application": {
+    "subtitle": "Dein virtuelles Fahrerlebnis"
+  },
+  "dedicatedSite": {
+    "visit": "Besuche {website}"
+  },
+  "$vuetify": {
+    "open": "Open",
+    "close": "Close"
+  },
+  "common": {
+    "simpoint": "Sim Point Racing",
+    "register": "Registriere deinen Sim Point",
+    "promoteSimPoint": "Fördern Sie Ihren Sim Point",
+    "promoteBrand": "Fördern Sie Ihre Marke",
+    "joinDiscord": "Treten Sie unserem Discord bei",
+    "exploreMap": "Karte erkunden",
+    "perYear": "Jahr"
+  },
+  "action": {
+    "register": "Registrieren",
+    "promote": "Fördern",
+    "discover": "Entdecken",
+    "support": "Unterstützung",
+    "contact": "Kontakt"
+  },
+  "pages": {
+    "index": {
+      "meta": {
+        "title": "Sim Point - Deine virtuelle Rennsport-Erfahrung",
+        "description": "Entdecke unser Netzwerk von Sport-Rennsimulationszentren! Finde das nächstgelegene Fahrsimulationszentrum auf Sim Point Racing"
+      },
+      "column": {
+        "description": "Entdecken Sie das Netzwerk der Sportfahrsimulationszentren! Finden Sie das nächstgelegene auf unserer Karte"
+      },
+      "intro": {
+        "title": "Deine virtuelle Fahrerfahrung",
+        "description": "Entdecke das umfangreiche Netzwerk von Sport-Rennsimulationszentren auf der ganzen Welt mit<br />unserer interaktiven Karte. Finde Orte, um Simulationen zu erleben und mit anderen Enthusiasten in<br />Kontakt zu treten. Dein Abenteuer in der Welt des virtuellen Fahrens beginnt hier."
+      }
     },
     "country": {
-        "select": "Land auswählen",
-        "noData": "Es scheint, dass dieser Kontinent keine Sim Racing Points zu zeigen hat."
+      "meta": {
+        "title": "Sim Racing {country} - Rennsimulator in {country}",
+        "description": "Entdecken Sie Sim Racing in {country}. Finden Sie die nächstgelegenen Sportwagen-Simulatoren in {country} und erleben Sie das virtuelle Fahrerlebnis professioneller Fahrzeugsimulationen"
+      },
+      "heading": "Deine Sim-Racing-Erfahrung in {country}"
     },
     "region": {
-        "select": "Wähle einen Kontinent",
-        "change": "Wechsele den Kontinent"
+      "heading": "Rennsimulator in {location}",
+      "meta": {
+        "title": "Sim Racing {location} - Rennsimulator",
+        "description": "Karte der Rennsimulator in {location} unseres Sim Racing Netzwerks, klassische Autos, Sportwagen, Gran Turismo, Rallyeautos und Formel-1-Fahrzeuge in {location}, {country}"
+      }
+    },
+    "province": {
+      "heading": "Rennsimulator in {location}",
+      "meta": {
+        "title": "Sim Racing {location} - Rennsimulator",
+        "description": "Karte der Rennsimulator in {location} unseres Sim Racing Netzwerks, klassische Autos, Sportwagen, Rallyeautos, Gran Turismo und Formel-1-Fahrzeuge in {location}, {country}"
+      }
+    },
+    "hub": {
+      "meta": {
+        "title": "{hubName} - Sim Racing {location}",
+        "description": "Nehmen Sie am Sportwagen-Simulationszentrum {hubName} teil und erleben Sie das virtuelle Fahrerlebnis mit Sim Racing in {country}"
+      }
+    },
+    "pricing": {
+      "plans": {
+        "free": {
+          "heading": "für neulinge",
+          "title": "Einmaliges Einreichen",
+          "action": "Abonnieren",
+          "perks": {
+            "perk1": "Auf der Karte sichtbar",
+            "perk2": "Dedizierte Seite (minimal)"
+          }
+        },
+        "basic": {
+          "heading": "für erfahrene marken",
+          "title": "Premium-Plan",
+          "action": "Abonnieren",
+          "perks": {
+            "perk1": "Auf der Karte sichtbar",
+            "perk2": "Eigenständige Seite",
+            "perk3": "Unbegrenzte Änderungswünsche",
+            "perk4": "Höher in der Liste erscheinen",
+            "perk5": "Soziale Medien in der Liste",
+            "perk6": "Tags: Rallye, virtuelle Realität"
+          }
+        },
+        "premium": {
+          "heading": "für anspruchsvolle marken",
+          "title": "Premiumplan",
+          "price": "Kontaktiere uns",
+          "action": "Angebot erhalten",
+          "perks": {
+            "perk1": "Auf der Karte sichtbar",
+            "perk2": "Eigenständige Seite",
+            "perk3": "Unbegrenzte Änderungswünsche",
+            "perk4": "Höher in der Liste erscheinen",
+            "perk5": "Soziale Medien in der Liste",
+            "perk6": "Tags: Rallye, virtuelle Realität",
+            "perk7": "Hervorgehobenes Logo & Link",
+            "perk8": "Benutzerdefiniertes Symbol auf Karte",
+            "perk9": "Anfrage für dedizierten Banner"
+          }
+        }
+      }
     }
+  },
+  "place": {
+    "select": "Wähle eine Region aus"
+  },
+  "country": {
+    "select": "Land auswählen",
+    "noData": "Es scheint, dass dieser Kontinent keine Sim Racing Points zu zeigen hat."
+  },
+  "region": {
+    "select": "Wähle einen Kontinent",
+    "change": "Wechsele den Kontinent"
+  }
 }

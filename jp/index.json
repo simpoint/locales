@@ -1,76 +1,76 @@
 {
-    "application": {
+  "application": {
     "subtitle": "あなたのバーチャルドライビングエクスペリエンス"
-},
-    "dedicatedSite": {
+  },
+  "dedicatedSite": {
     "visit": "{website} を訪れる"
-},
-    "$vuetify": {
+  },
+  "$vuetify": {
     "open": "Open",
-        "close": "Close"
-},
-    "common": {
+    "close": "Close"
+  },
+  "common": {
     "simpoint": "Sim Point Racing",
-        "register": "あなたのSim Pointを登録する",
-        "promoteSimPoint": "Sim Pointをプロモートする",
-        "promoteBrand": "ブランドをプロモートする",
-        "joinDiscord": "Discordに参加",
-        "exploreMap": "地図を探索する",
-        "perYear": "年"
-},
-    "action": {
+    "register": "あなたのSim Pointを登録する",
+    "promoteSimPoint": "Sim Pointをプロモートする",
+    "promoteBrand": "ブランドをプロモートする",
+    "joinDiscord": "Discordに参加",
+    "exploreMap": "地図を探索する",
+    "perYear": "年"
+  },
+  "action": {
     "register": "登録",
-        "promote": "促進",
-        "discover": "発見",
-        "support": "サポート"
-},
-    "pages": {
+    "promote": "促進",
+    "discover": "発見",
+    "support": "サポート"
+  },
+  "pages": {
     "index": {
-        "meta": {
-            "title": "Sim Point - あなたのバーチャルレーシング体験",
-                "description": "スポーツレーシングシミュレーションセンターのネットワークを発見しよう！Sim Point Racingで最寄りのドライビングシミュレーションセンターを見つけよう"
-        },
-        "column": {
-            "description": "スポーツドライビングシミュレーションセンターのネットワークを発見しよう！Sim Point Racingで最寄りのドライビングシミュレーションセンターを見つけよう"
-        },
-        "intro": {
-            "title": "あなたのバーチャルドライビング体験",
-                "description": "世界中のスポーツレーシングシミュレーションセンターの広範なネットワークを発見しよう インタラクティブな地図で。シミュレーションを体験し、他の シムレーシング愛好家とつながる場所を見つけよう。バーチャルドライビングの世界での冒険がここから始まります。"
-        }
+      "meta": {
+        "title": "Sim Point - あなたのバーチャルレーシング体験",
+        "description": "スポーツレーシングシミュレーションセンターのネットワークを発見しよう！Sim Point Racingで最寄りのドライビングシミュレーションセンターを見つけよう"
+      },
+      "column": {
+        "description": "スポーツドライビングシミュレーションセンターのネットワークを発見しよう！Sim Point Racingで最寄りのドライビングシミュレーションセンターを見つけよう"
+      },
+      "intro": {
+        "title": "あなたのバーチャルドライビング体験",
+        "description": "世界中のスポーツレーシングシミュレーションセンターの広範なネットワークを発見しよう インタラクティブな地図で。シミュレーションを体験し、他の シムレーシング愛好家とつながる場所を見つけよう。バーチャルドライビングの世界での冒険がここから始まります。"
+      }
     },
     "country": {
-        "meta": {
-            "title": "Sim Racing {country} - レーシングシミュレーター {country}",
-                "description": "{country} での Sim Racing を体験してください。最も近い {country} のレーシングシミュレーターを見つけて、プロのドライビングシミュレーションの仮想体験をお楽しみください"
-        }
+      "meta": {
+        "title": "Sim Racing {country} - レーシングシミュレーター {country}",
+        "description": "{country} での Sim Racing を体験してください。最も近い {country} のレーシングシミュレーターを見つけて、プロのドライビングシミュレーションの仮想体験をお楽しみください"
+      }
     },
     "region": {
-        "meta": {
-            "title": "Sim Racing {location} - レーシングシミュレーター",
-                "description": "{country} の {location} にある Sim Racing ネットワークのレーシングシミュレーターの地図。クラシックカー、スポーツカー、グランツーリスモ、ラリーカー、F1カーなどをドライブできます"
-        },
-        "heading": "{country}でのSimレーシング体験"
+      "meta": {
+        "title": "Sim Racing {location} - レーシングシミュレーター",
+        "description": "{country} の {location} にある Sim Racing ネットワークのレーシングシミュレーターの地図。クラシックカー、スポーツカー、グランツーリスモ、ラリーカー、F1カーなどをドライブできます"
+      },
+      "heading": "{country}でのSimレーシング体験"
     },
     "province": {
-        "heading": "{location} のレーシングシミュレーター",
-            "meta": {
-            "title": "Sim Racing {location} - レーシングシミュレーター",
-                "description": "{country} の {location} にある Sim Racing ネットワークのレーシングシミュレーターの地図。クラシックカー、スポーツカー、ラリーカー、グランツーリスモ、F1カーなどをドライブできます"
-        }
+      "heading": "{location} のレーシングシミュレーター",
+      "meta": {
+        "title": "Sim Racing {location} - レーシングシミュレーター",
+        "description": "{country} の {location} にある Sim Racing ネットワークのレーシングシミュレーターの地図。クラシックカー、スポーツカー、ラリーカー、グランツーリスモ、F1カーなどをドライブできます"
+      }
     },
     "hub": {
-        "meta": {
-            "title": "{hubName} - Sim Racing {location}",
-                "description": "{hubName} スポーツドライビングシミュレーションセンターでバーチャルドライビング体験をお楽しみください。 {country} での Sim Racing に参加しましょう"
-        }
+      "meta": {
+        "title": "{hubName} - Sim Racing {location}",
+        "description": "{hubName} スポーツドライビングシミュレーションセンターでバーチャルドライビング体験をお楽しみください。 {country} での Sim Racing に参加しましょう"
+      }
     }
-},
-    "country": {
+  },
+  "country": {
     "select": "国を選択",
-        "noData": "この大陸には表示するSim Racing Pointがないようです"
-},
-    "region": {
+    "noData": "この大陸には表示するSim Racing Pointがないようです"
+  },
+  "region": {
     "select": "大陸を選択",
-        "change": "大陸を変更"
-}
+    "change": "大陸を変更"
+  }
 }

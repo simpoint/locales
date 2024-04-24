@@ -1,77 +1,77 @@
 {
-    "application": {
+  "application": {
     "subtitle": "Twoje wirtualne doświadczenie jazdy"
-},
-    "dedicatedSite": {
+  },
+  "dedicatedSite": {
     "visit": "Odwiedź {website}"
-},
-    "$vuetify": {
+  },
+  "$vuetify": {
     "open": "Open",
-        "close": "Close"
-},
-    "common": {
+    "close": "Close"
+  },
+  "common": {
     "simpoint": "Symulacyjne Wyścigi Punkty",
-        "register": "Zarejestruj swój Sym Punkt",
-        "promoteSimPoint": "Promuj swój Sym Punkt",
-        "promoteBrand": "Promuj swoją markę",
-        "joinDiscord": "Dołącz do naszego Discorda",
-        "exploreMap": "Eksploruj mapę",
-        "perYear": "rok"
-},
-    "action": {
+    "register": "Zarejestruj swój Sym Punkt",
+    "promoteSimPoint": "Promuj swój Sym Punkt",
+    "promoteBrand": "Promuj swoją markę",
+    "joinDiscord": "Dołącz do naszego Discorda",
+    "exploreMap": "Eksploruj mapę",
+    "perYear": "rok"
+  },
+  "action": {
     "register": "Zarejestrować",
-        "promote": "Promować",
-        "discover": "Odkryć",
-        "support": "Wsparcie"
-},
-    "pages": {
+    "promote": "Promować",
+    "discover": "Odkryć",
+    "support": "Wsparcie"
+  },
+  "pages": {
     "index": {
-        "meta": {
-            "title": "Sim Point - Twoje wirtualne doświadczenie wyścigowe",
-                "description": "Odkryj naszą sieć centrów symulacji sportowych wyścigów! Znajdź najbliższe centrum symulacji jazdy na Symulatorze Wyścigowym"
-        },
-        "column": {
-            "description": "Odkryj naszą sieć centrów symulacji sportowej jazdy! Znajdź najbliższe centrum symulacji jazdy na Symulatorze Wyścigowym"
-        },
-        "intro": {
-            "title": "Twoje wirtualne doświadczenie jazdy",
-                "description": "Odkryj rozległą sieć centrów symulacji sportowej jazdy na świecie dzięki naszej interaktywnej mapie. Znajdź miejsca do doświadczania symulacji i skontaktuj się z innymi entuzjastami wyścigów symulacyjnych. Twoja przygoda w świecie wirtualnej jazdy zaczyna się tutaj."
-        }
+      "meta": {
+        "title": "Sim Point - Twoje wirtualne doświadczenie wyścigowe",
+        "description": "Odkryj naszą sieć centrów symulacji sportowych wyścigów! Znajdź najbliższe centrum symulacji jazdy na Symulatorze Wyścigowym"
+      },
+      "column": {
+        "description": "Odkryj naszą sieć centrów symulacji sportowej jazdy! Znajdź najbliższe centrum symulacji jazdy na Symulatorze Wyścigowym"
+      },
+      "intro": {
+        "title": "Twoje wirtualne doświadczenie jazdy",
+        "description": "Odkryj rozległą sieć centrów symulacji sportowej jazdy na świecie dzięki naszej interaktywnej mapie. Znajdź miejsca do doświadczania symulacji i skontaktuj się z innymi entuzjastami wyścigów symulacyjnych. Twoja przygoda w świecie wirtualnej jazdy zaczyna się tutaj."
+      }
     },
     "country": {
-        "meta": {
-            "title": "Sim Racing {country} - Symulatory wyścigowe {country}",
-                "description": "Odkryj świat Sim Racing w {country}. Znajdź najbliższe symulatory wyścigowe w {country} i doświadcz wirtualnej symulacji profesjonalnej jazdy."
-        },
-        "heading": "Twoje doświadczenie Sim Racing w {country}"
+      "meta": {
+        "title": "Sim Racing {country} - Symulatory wyścigowe {country}",
+        "description": "Odkryj świat Sim Racing w {country}. Znajdź najbliższe symulatory wyścigowe w {country} i doświadcz wirtualnej symulacji profesjonalnej jazdy."
+      },
+      "heading": "Twoje doświadczenie Sim Racing w {country}"
     },
     "region": {
-        "heading": "Symulatory wyścigowe w {location}",
-            "meta": {
-            "title": "Symulatory Wyścigów {location} w {country}",
-                "description": "Mapa symulatorów jazdy w {location} w naszej sieci Sim Racing. Jazda klasycznymi samochodami, sportowymi, Gran Turismo, samochodami rajdowymi i Formułą 1 w {location}, {country}."
-        }
+      "heading": "Symulatory wyścigowe w {location}",
+      "meta": {
+        "title": "Symulatory Wyścigów {location} w {country}",
+        "description": "Mapa symulatorów jazdy w {location} w naszej sieci Sim Racing. Jazda klasycznymi samochodami, sportowymi, Gran Turismo, samochodami rajdowymi i Formułą 1 w {location}, {country}."
+      }
     },
     "province": {
-        "heading": "Symulatory wyścigowe w {location}",
-            "meta": {
-            "title": "Symulatory Wyścigów {location} w {country}",
-                "description": "Mapa symulatorów jazdy w {location} w naszej sieci Sim Racing. Jazda klasycznymi samochodami, sportowymi, samochodami rajdowymi, Gran Turismo i Formułą 1 w {location} w {country}."
-        }
+      "heading": "Symulatory wyścigowe w {location}",
+      "meta": {
+        "title": "Symulatory Wyścigów {location} w {country}",
+        "description": "Mapa symulatorów jazdy w {location} w naszej sieci Sim Racing. Jazda klasycznymi samochodami, sportowymi, samochodami rajdowymi, Gran Turismo i Formułą 1 w {location} w {country}."
+      }
     },
     "hub": {
-        "meta": {
-            "title": "{hubName} - Sim Racing {location}",
-                "description": "Weź udział w centrum symulacji sportowej jazdy {hubName} i spróbuj wirtualnej jazdy z Sim Racing w {country}."
-        }
+      "meta": {
+        "title": "{hubName} - Sim Racing {location}",
+        "description": "Weź udział w centrum symulacji sportowej jazdy {hubName} i spróbuj wirtualnej jazdy z Sim Racing w {country}."
+      }
     }
-},
-    "country": {
+  },
+  "country": {
     "select": "Wybierz kraj",
-        "noData": "Wygląda na to, że ten kontynent nie ma żadnych punktów Sim Racing do pokazania"
-},
-    "region": {
+    "noData": "Wygląda na to, że ten kontynent nie ma żadnych punktów Sim Racing do pokazania"
+  },
+  "region": {
     "select": "Wybierz kontynent",
-        "change": "Zmień kontynent"
-}
+    "change": "Zmień kontynent"
+  }
 }

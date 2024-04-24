@@ -1,77 +1,77 @@
 {
-    "application": {
+  "application": {
     "subtitle": "당신의 가상 운전 경험"
-},
-    "dedicatedSite": {
+  },
+  "dedicatedSite": {
     "visit": "{website} 방문하기"
-},
-    "$vuetify": {
+  },
+  "$vuetify": {
     "open": "Open",
-        "close": "Close"
-},
-    "common": {
+    "close": "Close"
+  },
+  "common": {
     "simpoint": "Sim Point Racing",
-        "register": "Sim Point 등록하기",
-        "promoteSimPoint": "Sim Point를 홍보하다",
-        "promoteBrand": "브랜드를 홍보하다",
-        "joinDiscord": "디스코드 참여하기",
-        "exploreMap": "지도 탐색",
-        "perYear": "년"
-},
-    "action": {
+    "register": "Sim Point 등록하기",
+    "promoteSimPoint": "Sim Point를 홍보하다",
+    "promoteBrand": "브랜드를 홍보하다",
+    "joinDiscord": "디스코드 참여하기",
+    "exploreMap": "지도 탐색",
+    "perYear": "년"
+  },
+  "action": {
     "register": "등록",
-        "promote": "촉진",
-        "discover": "발견",
-        "support": "지원"
-},
-    "pages": {
+    "promote": "촉진",
+    "discover": "발견",
+    "support": "지원"
+  },
+  "pages": {
     "index": {
-        "meta": {
-            "title": "Sim Point - 당신의 가상 레이싱 경험",
-                "description": "스포츠 레이싱 시뮬레이션 센터 네트워크를 발견하십시오! Sim Point Racing에서 가장 가까운 드라이빙 시뮬레이션 센터를 찾으세요"
-        },
-        "column": {
-            "description": "스포츠 드라이빙 시뮬레이션 센터 네트워크를 발견하십시오! Sim Point Racing에서 가장 가까운 드라이빙 시뮬레이션 센터를 찾으세요"
-        },
-        "intro": {
-            "title": "당신의 가상 운전 경험",
-                "description": "전 세계 스포츠 레이싱 시뮬레이션 센터 네트워크를 발견하세요 우리의 대화형 지도와 함께. 시뮬레이션을 체험하고 다른 시뮬레이션 레이싱 애호가와 연결할 장소를 찾아보세요. 당신의 가상 운전 세계 모험이 여기서 시작됩니다."
-        }
+      "meta": {
+        "title": "Sim Point - 당신의 가상 레이싱 경험",
+        "description": "스포츠 레이싱 시뮬레이션 센터 네트워크를 발견하십시오! Sim Point Racing에서 가장 가까운 드라이빙 시뮬레이션 센터를 찾으세요"
+      },
+      "column": {
+        "description": "스포츠 드라이빙 시뮬레이션 센터 네트워크를 발견하십시오! Sim Point Racing에서 가장 가까운 드라이빙 시뮬레이션 센터를 찾으세요"
+      },
+      "intro": {
+        "title": "당신의 가상 운전 경험",
+        "description": "전 세계 스포츠 레이싱 시뮬레이션 센터 네트워크를 발견하세요 우리의 대화형 지도와 함께. 시뮬레이션을 체험하고 다른 시뮬레이션 레이싱 애호가와 연결할 장소를 찾아보세요. 당신의 가상 운전 세계 모험이 여기서 시작됩니다."
+      }
     },
     "country": {
-        "meta": {
-            "title": "Sim Racing {country} - 레이싱 시뮬레이터 {country}",
-                "description": "{country}에서의 Sim Racing을 경험해보세요. {country}에서 가장 가까운 레이싱 시뮬레이터를 찾아서 프로페셔널한 운전 시뮬레이션 가상 경험을 즐겨보세요."
-        },
-        "heading": "{country}에서의 Sim 레이싱 경험"
+      "meta": {
+        "title": "Sim Racing {country} - 레이싱 시뮬레이터 {country}",
+        "description": "{country}에서의 Sim Racing을 경험해보세요. {country}에서 가장 가까운 레이싱 시뮬레이터를 찾아서 프로페셔널한 운전 시뮬레이션 가상 경험을 즐겨보세요."
+      },
+      "heading": "{country}에서의 Sim 레이싱 경험"
     },
     "region": {
-        "heading": "{location}의 레이싱 시뮬레이터",
-            "meta": {
-            "title": "Sim Racing {location} - 레이싱 시뮬레이터",
-                "description": "{country}의 {location}에 위치한 Sim Racing 네트워크의 레이싱 시뮬레이터 지도입니다. 클래식 카, 스포츠 카, 그랑 투리스모, 랠리 카, F1 등을 운전할 수 있습니다."
-        }
+      "heading": "{location}의 레이싱 시뮬레이터",
+      "meta": {
+        "title": "Sim Racing {location} - 레이싱 시뮬레이터",
+        "description": "{country}의 {location}에 위치한 Sim Racing 네트워크의 레이싱 시뮬레이터 지도입니다. 클래식 카, 스포츠 카, 그랑 투리스모, 랠리 카, F1 등을 운전할 수 있습니다."
+      }
     },
     "province": {
-        "heading": "{location}의 레이싱 시뮬레이터",
-            "meta": {
-            "title": "Sim Racing {location} - 레이싱 시뮬레이터",
-                "description": "{country}의 {location}에 위치한 Sim Racing 네트워크의 레이싱 시뮬레이터 지도입니다. 클래식 카, 스포츠 카, 랠리 카, 그랑 투리스모, F1 등을 운전할 수 있습니다."
-        }
+      "heading": "{location}의 레이싱 시뮬레이터",
+      "meta": {
+        "title": "Sim Racing {location} - 레이싱 시뮬레이터",
+        "description": "{country}의 {location}에 위치한 Sim Racing 네트워크의 레이싱 시뮬레이터 지도입니다. 클래식 카, 스포츠 카, 랠리 카, 그랑 투리스모, F1 등을 운전할 수 있습니다."
+      }
     },
     "hub": {
-        "meta": {
-            "title": "{hubName} - Sim Racing {location}",
-                "description": "{hubName} 스포츠 드라이빙 시뮬레이션 센터에서 가상 운전 경험을 즐기세요. {country}에서의 Sim Racing에 참여해보세요."
-        }
+      "meta": {
+        "title": "{hubName} - Sim Racing {location}",
+        "description": "{hubName} 스포츠 드라이빙 시뮬레이션 센터에서 가상 운전 경험을 즐기세요. {country}에서의 Sim Racing에 참여해보세요."
+      }
     }
-},
-    "country": {
+  },
+  "country": {
     "select": "국가 선택",
-        "noData": "이 대륙에는 표시할 Sim Racing Point가 없는 것 같습니다"
-},
-    "region": {
+    "noData": "이 대륙에는 표시할 Sim Racing Point가 없는 것 같습니다"
+  },
+  "region": {
     "select": "대륙 선택",
-        "change": "대륙 변경"
-}
+    "change": "대륙 변경"
+  }
 }
