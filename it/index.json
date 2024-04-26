@@ -74,36 +74,33 @@
     "pricing": {
       "plans": {
         "free": {
-          "heading": "per i nuovi arrivati",
           "title": "One-time Submit",
-          "action": "Registrati",
+          "action": "Registrazione",
           "perks": {
             "perk1": "Inserimento gratuito",
             "perk2": "Marker sulla nostra mappa",
             "perk3": "Pagina dedicata (minimale)"
           }
         },
-        "basic": {
-          "heading": "per i più esperti",
+        "premium": {
           "title": "Piano Premium",
-          "action": "Sottoscrivi",
+          "action": "Iscrizione premium",
           "perks": {
             "perk1": "Marker sulla nostra mappa",
-            "perk2": "Pagina dedicata (avanzata)",
+            "perk2": "Pagina realizzata su misura",
             "perk3": "Richieste di modifica senza limiti",
             "perk4": "Compari sopra chi ha il piano free",
             "perk5": "Profili social in evidenza",
             "perk6": "Tags: rally, realtà virtuale, etc"
           }
         },
-        "premium": {
-          "heading": "per i più esigenti",
+        "featured": {
           "title": "Featured",
           "price": "Contattaci",
           "action": "Più informazioni",
           "perks": {
             "perk1": "Marker sulla nostra mappa",
-            "perk2": "Pagina realizzata su misura",
+            "perk2": "Più pagine realizzate su misura",
             "perk3": "Richieste di modifica senza limiti",
             "perk4": "Compari sopra chi ha il piano free",
             "perk5": "Profili social in evidenza",
@@ -123,6 +120,7 @@
   },
   "country": {
     "select": "Seleziona un paese",
+    "placeholder": "Mi trovo in",
     "noData": "Sembra che per ora in questo continente non sia presente alcun Sim Racing Point da mostrare"
   },
   "region": {
@@ -130,7 +128,7 @@
     "change": "Cambia continente"
   },
   "lastActive": {
-    "operator": "Operatore",
+    "operator": "Supporto",
     "recentlyUpdated": "La piattaforma è stata aggiornata di recente.",
     "guaranteedInsert": "Inserimento garantito entro {lastActive} ore"
   }

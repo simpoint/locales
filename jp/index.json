@@ -67,6 +67,7 @@
   },
   "country": {
     "select": "国を選択",
+    "placeholder": "私は...にいます",
     "noData": "この大陸には表示するSim Racing Pointがないようです"
   },
   "region": {
@@ -74,7 +75,7 @@
     "change": "大陸を変更"
   },
   "lastActive": {
-    "operator": "オペレーター",
+    "operator": "サポート",
     "recentlyUpdated": "プラットフォームは最近更新されました。",
     "guaranteedInsert": "{lastActive} 時間以内の保証された挿入"
   }

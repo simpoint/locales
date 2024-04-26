@@ -68,6 +68,7 @@
   },
   "country": {
     "select": "국가 선택",
+    "placeholder": "나는 ...에 있어요",
     "noData": "이 대륙에는 표시할 Sim Racing Point가 없는 것 같습니다"
   },
   "region": {
@@ -75,7 +76,7 @@
     "change": "대륙 변경"
   },
   "lastActive": {
-    "operator": "오퍼레이터",
+    "operator": "지원",
     "recentlyUpdated": "플랫폼이 최근에 업데이트되었습니다.",
     "guaranteedInsert": "{lastActive} 시간 이내 보장된 삽입"
   }

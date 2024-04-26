@@ -70,35 +70,33 @@
     "pricing": {
       "plans": {
         "free": {
-          "heading": "para principiantes",
           "title": "Envío único",
-          "action": "Suscríbese",
+          "action": "Registro",
           "perks": {
-            "perk1": "Visible en nuestro mapa",
-            "perk2": "Página dedicada (mínima)"
+            "perk1": "Inserción gratuita",
+            "perk2": "Visible en nuestro mapa",
+            "perk3": "Página dedicada (mínima)"
           }
         },
-        "basic": {
-          "heading": "para los más expertos",
+        "premium": {
           "title": "Plan Premium",
-          "action": "Suscríbese",
+          "action": "Suscripción premium",
           "perks": {
             "perk1": "Visible en nuestro mapa",
-            "perk2": "Página dedicada (avanzada)",
+            "perk2": "Página hecha a medida",
             "perk3": "Solicitudes de cambio ilimitadas",
             "perk4": "Destacado sobre otros en la lista",
             "perk5": "Redes sociales mostradas en la lista",
             "perk6": "Etiquetas: rally, realidad virtual"
           }
         },
-        "premium": {
-          "heading": "para los más expertos",
+        "featured": {
           "title": "Plan Premium",
           "price": "Contáctenos",
           "action": "Presupuesto",
           "perks": {
             "perk1": "Visible en nuestro mapa",
-            "perk2": "Página dedicada (avanzada)",
+            "perk2": "Varias páginas hechas a medida",
             "perk3": "Solicitudes de cambio ilimitadas",
             "perk4": "Destacado sobre otros en la lista",
             "perk5": "Redes sociales mostradas en la lista",
@@ -117,6 +115,7 @@
   },
   "country": {
     "select": "Selecciona un país",
+    "placeholder": "Estoy en",
     "noData": "Parece que este continente no tiene ningún punto de Sim Racing que mostrar"
   },
   "region": {
@@ -124,7 +123,7 @@
     "change": "Cambiar de continente"
   },
   "lastActive": {
-    "operator": "Operador",
+    "operator": "Soporte",
     "recentlyUpdated": "La plataforma ha sido actualizada recientemente.",
     "guaranteedInsert": "Inserción garantizada dentro de {lastActive} horas"
   }

@@ -68,6 +68,7 @@
   },
   "country": {
     "select": "Выберите страну",
+    "placeholder": "Я нахожусь в",
     "noData": "Похоже, что на этом континенте нет ни одной точки Sim Racing для отображения"
   },
   "region": {
@@ -75,7 +76,7 @@
     "change": "Сменить континент"
   },
   "lastActive": {
-    "operator": "Оператор",
+    "operator": "Поддержка",
     "recentlyUpdated": "Платформа была недавно обновлена.",
     "guaranteedInsert": "Гарантированная вставка в течение {lastActive} часов"
   }

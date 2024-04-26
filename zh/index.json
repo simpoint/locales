@@ -68,6 +68,7 @@
   },
   "country": {
     "select": "选择一个国家",
+    "placeholder": "我在...",
     "noData": "似乎这个大陆没有任何Sim Racing Point可展示"
   },
   "region": {
@@ -75,7 +76,7 @@
     "change": "切换大陆"
   },
   "lastActive": {
-    "operator": "运营商",
+    "operator": "支持",
     "recentlyUpdated": "平台最近已更新。",
     "guaranteedInsert": "{lastActive} 小时内保证插入"
   }

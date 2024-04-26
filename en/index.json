@@ -75,21 +75,20 @@
     "pricing": {
       "plans": {
         "free": {
-          "heading": "for newcomers",
           "title": "One-time Submit",
-          "action": "Register",
+          "action": "Registration",
           "perks": {
-            "perk1": "Marker on our map",
-            "perk2": "Dedicated page (minimal)"
+            "perk1": "Free submission",
+            "perk2": "Marker on our map",
+            "perk3": "Dedicated page (minimal)"
           }
         },
-        "basic": {
-          "heading": "for experienced brands",
+        "premium": {
           "title": "Premium Plan",
-          "action": "Subscribe",
+          "action": "Premium subscription",
           "perks": {
             "perk1": "Marker on our map",
-            "perk2": "Dedicated page (advanced)",
+            "perk2": "Custom-made page",
             "perk3": "Unlimited change requests",
             "perk4": "Appear above others with free plan",
             "perk5": "Highlighted social profiles",
@@ -97,14 +96,13 @@
             "perk7": "Unlimited change requests"
           }
         },
-        "premium": {
-          "heading": "for demanding brands",
+        "featured": {
           "title": "Featured",
           "price": "Contact us",
           "action": "Get in touch",
           "perks": {
             "perk1": "Marker on our map",
-            "perk2": "Dedicated page (advanced)",
+            "perk2": "Multiple custom-made pages",
             "perk3": "Unlimited change requests",
             "perk4": "Appear above others with free plan",
             "perk5": "Highlighted social profiles",
@@ -124,6 +122,7 @@
   },
   "country": {
     "select": "Select a country",
+    "placeholder": "I am in",
     "noData": "Seems like this continent still not have any country with a Sim Racing Point to display"
   },
   "region": {
@@ -131,7 +130,7 @@
     "change": "Change region"
   },
   "lastActive": {
-    "operator": "Operator",
+    "operator": "Support",
     "recentlyUpdated": "Platform has been recently updated.",
     "guaranteedInsert": "Guaranteed insertion within {lastActive} hours"
   }

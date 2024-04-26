@@ -68,6 +68,7 @@
   },
   "country": {
     "select": "選擇一個國家",
+    "placeholder": "我在...",
     "noData": "似乎這個大陸沒有任何Sim Racing Point可展示"
   },
   "region": {
@@ -75,7 +76,7 @@
     "change": "切換大陸"
   },
   "lastActive": {
-    "operator": "操作者",
+    "operator": "支援",
     "recentlyUpdated": "平台最近已更新。",
     "guaranteedInsert": "{lastActive} 小時內保證插入"
   }

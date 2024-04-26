@@ -69,35 +69,33 @@
     "pricing": {
       "plans": {
         "free": {
-          "heading": "für neulinge",
-          "title": "Einmaliges Einreichen",
-          "action": "Abonnieren",
+          "title": "Einmalige Übermittlung",
+          "action": "Registrierung",
           "perks": {
-            "perk1": "Auf der Karte sichtbar",
-            "perk2": "Dedizierte Seite (minimal)"
+            "perk1": "Kostenlose Einschreibung",
+            "perk2": "Auf der Karte sichtbar",
+            "perk3": "Dedizierte Seite (minimal)"
           }
         },
-        "basic": {
-          "heading": "für erfahrene marken",
+        "premium": {
           "title": "Premium-Plan",
-          "action": "Abonnieren",
+          "action": "Premium-Mitgliedschaft",
           "perks": {
             "perk1": "Auf der Karte sichtbar",
-            "perk2": "Eigenständige Seite",
+            "perk2": "Maßgeschneiderte Seite",
             "perk3": "Unbegrenzte Änderungswünsche",
             "perk4": "Höher in der Liste erscheinen",
             "perk5": "Soziale Medien in der Liste",
             "perk6": "Tags: Rallye, virtuelle Realität"
           }
         },
-        "premium": {
-          "heading": "für anspruchsvolle marken",
+        "featured": {
           "title": "Premiumplan",
           "price": "Kontaktiere uns",
           "action": "Angebot erhalten",
           "perks": {
             "perk1": "Auf der Karte sichtbar",
-            "perk2": "Eigenständige Seite",
+            "perk2": "Mehr maßgeschneiderte Seiten",
             "perk3": "Unbegrenzte Änderungswünsche",
             "perk4": "Höher in der Liste erscheinen",
             "perk5": "Soziale Medien in der Liste",
@@ -115,6 +113,7 @@
   },
   "country": {
     "select": "Land auswählen",
+    "placeholder": "Ich befinde mich in",
     "noData": "Es scheint, dass dieser Kontinent keine Sim Racing Points zu zeigen hat."
   },
   "region": {
@@ -122,7 +121,7 @@
     "change": "Wechsele den Kontinent"
   },
   "lastActive": {
-    "operator": "Operator",
+    "operator": "Unterstützung",
     "recentlyUpdated": "Plattform wurde kürzlich aktualisiert.",
     "guaranteedInsert": "Garantierte Einfügung innerhalb von {lastActive} Stunden"
   }

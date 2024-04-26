@@ -68,6 +68,7 @@
   },
   "country": {
     "select": "Wybierz kraj",
+    "placeholder": "Jestem w",
     "noData": "Wygląda na to, że ten kontynent nie ma żadnych punktów Sim Racing do pokazania"
   },
   "region": {
@@ -75,7 +76,7 @@
     "change": "Zmień kontynent"
   },
   "lastActive": {
-    "operator": "Operator",
+    "operator": "Wsparcie",
     "recentlyUpdated": "Platforma została niedawno zaktualizowana.",
     "guaranteedInsert": "Gwarantowane wstawienie w ciągu {lastActive} godzin"
   }

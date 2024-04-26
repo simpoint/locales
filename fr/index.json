@@ -70,35 +70,33 @@
     "pricing": {
       "plans": {
         "free": {
-          "heading": "pour les nouveaux arrivants",
           "title": "Soumission unique",
-          "action": "S'abonner",
+          "action": "Enregistrement",
           "perks": {
-            "perk1": "Visible sur notre carte",
-            "perk2": "Page dédiée (minimale)"
+            "perk1": "Soumission gratuite",
+            "perk2": "Visible sur notre carte",
+            "perk3": "Page dédiée (minimale)"
           }
         },
-        "basic": {
-          "heading": "pour les plus expérimentés",
+        "premium": {
           "title": "Plan Premium",
-          "action": "S'abonner",
+          "action": "Abonnement premium",
           "perks": {
             "perk1": "Visible sur notre carte",
-            "perk2": "Page dédiée (avancée)",
+            "perk2": "Page sur mesure",
             "perk3": "Demandes de changement illimitées",
             "perk4": "Mise en avant dans la liste",
             "perk5": "Réseaux sociaux affichés dans la liste",
             "perk6": "Tags : rallye, réalité virtuelle, etc"
           }
         },
-        "premium": {
-          "heading": "per les plus exigeants",
+        "featured": {
           "title": "Plan Premium",
           "price": "Contactez-nous",
           "action": "Obtenez un devis",
           "perks": {
             "perk1": "Visible sur notre carte",
-            "perk2": "Page dédiée (avancée)",
+            "perk2": "Plusieurs pages sur mesure",
             "perk3": "Demandes de changement illimitées",
             "perk4": "Mise en avant dans la liste",
             "perk5": "Réseaux sociaux affichés dans la liste",
@@ -118,6 +116,7 @@
   },
   "country": {
     "select": "Sélectionnez un pays",
+    "placeholder": "Je suis en",
     "noData": "Il semble que ce continent n'ait aucun point de Sim Racing à montrer"
   },
   "region": {
@@ -125,7 +124,7 @@
     "change": "Changer de continent"
   },
   "lastActive": {
-    "operator": "Opérateur",
+    "operator": "Support",
     "recentlyUpdated": "La plateforme a été récemment mise à jour.",
     "guaranteedInsert": "Insertion garantie dans les {lastActive} heures"
   }

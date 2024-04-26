@@ -66,31 +66,32 @@
       "plans": {
         "free": {
           "title": "Plano Gratuito",
-          "action": "Inscrever-se",
+          "action": "Registro",
           "perks": {
-            "perk1": "Visibilidade no nosso mapa",
-            "perk2": "Página dedicada (mínima)"
+            "perk1": "Inserção gratuita",
+            "perk2": "Visibilidade no nosso mapa",
+            "perk3": "Página dedicada (mínima)"
           }
         },
-        "basic": {
-          "title": "Plano Padrão",
-          "action": "Inscrever-se",
+        "premium": {
+          "title": "Plano Premium",
+          "action": "Assinatura premium",
           "perks": {
             "perk1": "Visibilidade no nosso mapa",
-            "perk2": "Página dedicada (avançada)",
+            "perk2": "Página feita sob medida",
             "perk3": "Solicitações alteração ilimitadas",
             "perk4": "Destaque acima dos outros na lista",
             "perk5": "Redes sociais mostradas na lista",
             "perk6": "Tags: rally, realidade virtual, etc"
           }
         },
-        "premium": {
-          "title": "Plano Premium",
+        "featured": {
+          "title": "Plano em destaque",
           "price": "Entre em contato",
           "action": "Orçamento",
           "perks": {
             "perk1": "Visibilidade no nosso mapa",
-            "perk2": "Página dedicada (avançada)",
+            "perk2": "Múltiplas páginas feitas sob medida",
             "perk3": "Solicitações alteração ilimitadas",
             "perk4": "Destaque acima dos outros na lista",
             "perk5": "Redes sociais mostradas na lista",
@@ -105,6 +106,7 @@
   },
   "country": {
     "select": "Selecione um país",
+    "placeholder": "Estou em",
     "noData": "Parece que este continente não tem nenhum ponto de Sim Racing para mostrar"
   },
   "region": {
@@ -112,7 +114,7 @@
     "change": "Mudar de continente"
   },
   "lastActive": {
-    "operator": "Operador",
+    "operator": "Suporte",
     "recentlyUpdated": "A plataforma foi atualizada recentemente.",
     "guaranteedInsert": "Inserção garantida dentro de {lastActive} horas"
   }
