@@ -11,6 +11,7 @@
     "close": "Chiudi"
   },
   "menu": {
+    "about": "About",
     "terms": "Termini di Servizio",
     "privacy": "Privacy Policy"
   },
@@ -115,13 +116,13 @@
   },
   "place": {
     "select": "Seleziona una regione",
-    "noData": "Non è presente alcun Sim Racing Point da mostrare in questa zona, torna più avanti",
+    "noData": "Non ci sono luoghi da visualizzare",
     "add": "Gestisci un locale o realizzi componenti<br /> e desideri comparire sulla mappa?"
   },
   "country": {
     "select": "Seleziona un paese",
     "placeholder": "Mi trovo in",
-    "noData": "Sembra che per ora in questo continente non sia presente alcun Sim Racing Point da mostrare"
+    "noData": "Non ci sono paesi da visualizzare"
   },
   "region": {
     "select": "Seleziona un continente",

@@ -9,6 +9,11 @@
     "open": "Open",
     "close": "Close"
   },
+  "menu": {
+    "about": "Über",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutz"
+  },
   "common": {
     "simpoint": "Sim Point Racing",
     "register": "Registriere deinen Sim Point",
@@ -109,12 +114,14 @@
     }
   },
   "place": {
-    "select": "Wähle eine Region aus"
+    "select": "Wähle eine Region aus",
+    "noData": "Es gibt keine Orte zum Anzeigen",
+    "add": "Besitzen Sie einen Laden oder stellen Sie Komponenten her und möchten auf der Karte erscheinen?"
   },
   "country": {
     "select": "Land auswählen",
     "placeholder": "Ich befinde mich in",
-    "noData": "Es scheint, dass dieser Kontinent keine Sim Racing Points zu zeigen hat."
+    "noData": "Es gibt keine Länder zum Anzeigen"
   },
   "region": {
     "select": "Wähle einen Kontinent",

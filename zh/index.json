@@ -9,6 +9,11 @@
     "open": "Open",
     "close": "Close"
   },
+  "menu": {
+    "about": "关于",
+    "terms": "服务条款",
+    "privacy": "隐私政策"
+  },
   "common": {
     "simpoint": "模拟驾驶点赛车",
     "register": "注册您的模拟驾驶点",
@@ -69,7 +74,7 @@
   "country": {
     "select": "选择一个国家",
     "placeholder": "我在...",
-    "noData": "似乎这个大陆没有任何Sim Racing Point可展示"
+    "noData": "没有要显示的国家"
   },
   "region": {
     "select": "选择一个大陆",

@@ -116,14 +116,14 @@
     }
   },
   "place": {
-    "select": "Select a region",
-    "noData": "There are no Sim Points to display in this area, please come back later or register yours",
+    "select": "Select an area",
+    "noData": "There are no places to display",
     "add": "Do you own a shop or make components<br /> and would like to appear on the map?"
   },
   "country": {
     "select": "Select a country",
     "placeholder": "I am in",
-    "noData": "Seems like this continent still not have any country with a Sim Racing Point to display"
+    "noData": "There are no countries to display"
   },
   "region": {
     "select": "Select a region",

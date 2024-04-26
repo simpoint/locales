@@ -10,6 +10,11 @@
     "open": "Open",
     "close": "Close"
   },
+  "menu": {
+    "about": "Acerca de",
+    "terms": "Términos de Servicio",
+    "privacy": "Política de Privacidad"
+  },
   "common": {
     "simpoint": "Sim Point Racing",
     "register": "Registra tu Sim Point",
@@ -111,12 +116,13 @@
   },
   "place": {
     "select": "Selecciona una región",
-    "noData": "Parece que no hay ningún Sim Point para mostrar en esta zona, vuelve más tarde"
+    "noData": "No hay lugares para mostrar",
+    "add": "¿Tienes una tienda o fabricas componentes<br /> y te gustaría aparecer en el mapa?"
   },
   "country": {
     "select": "Selecciona un país",
     "placeholder": "Estoy en",
-    "noData": "Parece que este continente no tiene ningún punto de Sim Racing que mostrar"
+    "noData": "No hay países para mostrar"
   },
   "region": {
     "select": "Selecciona un continente",

@@ -9,6 +9,11 @@
     "open": "Open",
     "close": "Close"
   },
+  "menu": {
+    "about": "關於",
+    "terms": "服務條款",
+    "privacy": "隱私政策"
+  },
   "common": {
     "simpoint": "模擬駕駛點賽車",
     "register": "註冊您的模擬駕駛點",
@@ -69,7 +74,7 @@
   "country": {
     "select": "選擇一個國家",
     "placeholder": "我在...",
-    "noData": "似乎這個大陸沒有任何Sim Racing Point可展示"
+    "noData": "沒有要顯示的國家"
   },
   "region": {
     "select": "選擇一個大陸",

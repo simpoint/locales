@@ -9,6 +9,11 @@
     "open": "Open",
     "close": "Close"
   },
+  "menu": {
+    "about": "約",
+    "terms": "利用規約",
+    "privacy": "プライバシーポリシー"
+  },
   "common": {
     "simpoint": "Sim Point Racing",
     "register": "あなたのSim Pointを登録する",
@@ -68,7 +73,7 @@
   "country": {
     "select": "国を選択",
     "placeholder": "私は...にいます",
-    "noData": "この大陸には表示するSim Racing Pointがないようです"
+    "noData": "表示する国がありません"
   },
   "region": {
     "select": "大陸を選択",

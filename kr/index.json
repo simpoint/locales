@@ -9,6 +9,11 @@
     "open": "Open",
     "close": "Close"
   },
+  "menu": {
+    "about": "소개",
+    "terms": "이용 약관",
+    "privacy": "개인 정보 정책"
+  },
   "common": {
     "simpoint": "Sim Point Racing",
     "register": "Sim Point 등록하기",
@@ -69,7 +74,7 @@
   "country": {
     "select": "국가 선택",
     "placeholder": "나는 ...에 있어요",
-    "noData": "이 대륙에는 표시할 Sim Racing Point가 없는 것 같습니다"
+    "noData": "표시할 국가가 없습니다"
   },
   "region": {
     "select": "대륙 선택",

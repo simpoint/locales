@@ -9,6 +9,11 @@
     "open": "Open",
     "close": "Close"
   },
+  "menu": {
+    "about": "O nas",
+    "terms": "Warunki korzystania",
+    "privacy": "Polityka prywatności"
+  },
   "common": {
     "simpoint": "Symulacyjne Wyścigi Punkty",
     "register": "Zarejestruj swój Sym Punkt",
@@ -69,7 +74,7 @@
   "country": {
     "select": "Wybierz kraj",
     "placeholder": "Jestem w",
-    "noData": "Wygląda na to, że ten kontynent nie ma żadnych punktów Sim Racing do pokazania"
+    "noData": "Nie ma krajów do wyświetlenia"
   },
   "region": {
     "select": "Wybierz kontynent",
