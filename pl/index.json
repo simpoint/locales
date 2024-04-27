@@ -46,7 +46,7 @@
     },
     "country": {
       "meta": {
-        "title": "Sim Racing {country} - Symulatory wyścigowe {country}",
+        "title": "Symulatory wyścigowe {country} - Sim Racing {country}",
         "description": "Odkryj świat Sim Racing w {country}. Znajdź najbliższe symulatory wyścigowe w {country} i doświadcz wirtualnej symulacji profesjonalnej jazdy."
       },
       "heading": "Twoje doświadczenie Sim Racing w {country}"

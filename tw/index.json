@@ -46,7 +46,7 @@
     },
     "country": {
       "meta": {
-        "title": "Sim Racing {country} - 賽車模擬器 {country}",
+        "title": "賽車模擬器 {country} - Sim Racing {country}",
         "description": "在 {country} 探索 Sim Racing。找到最接近您的 {country} 賽車模擬器，體驗虛擬專業賽車模擬的奇妙體驗。"
       },
       "heading": "你在{country}的模擬賽車體驗"

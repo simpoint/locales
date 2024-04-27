@@ -43,7 +43,7 @@
     },
     "country": {
       "meta": {
-        "title": "Sim Racing {country} - Simuladores de Direção em {country}",
+        "title": "Simuladores de Direção em {country} - Sim Racing {country}",
         "description": "Descubra o Sim Racing em {country}. Encontre os simuladores de direção esportiva mais próximos de você em {country} e experimente a experiência virtual da simulação de direção profissional"
       },
       "heading": "Sua Experiência de Condução em {country}"

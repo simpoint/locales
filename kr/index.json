@@ -46,7 +46,7 @@
     },
     "country": {
       "meta": {
-        "title": "Sim Racing {country} - 레이싱 시뮬레이터 {country}",
+        "title": "레이싱 시뮬레이터 {country} - Sim Racing {country}",
         "description": "{country}에서의 Sim Racing을 경험해보세요. {country}에서 가장 가까운 레이싱 시뮬레이터를 찾아서 프로페셔널한 운전 시뮬레이션 가상 경험을 즐겨보세요."
       },
       "heading": "{country}에서의 Sim 레이싱 경험"
