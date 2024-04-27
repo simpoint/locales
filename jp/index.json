@@ -16,6 +16,7 @@
   },
   "common": {
     "simpoint": "Sim Point Racing",
+    "racingSim": "運転シミュレーター",
     "register": "あなたのSim Pointを登録する",
     "promoteSimPoint": "Sim Pointをプロモートする",
     "promoteBrand": "ブランドをプロモートする",
