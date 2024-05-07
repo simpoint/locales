@@ -11,7 +11,7 @@
     "close": "Chiudi"
   },
   "menu": {
-    "about": "About",
+    "about": "Informazioni",
     "terms": "Termini di Servizio",
     "privacy": "Privacy Policy"
   },
@@ -39,7 +39,7 @@
         "description": "Scopri il network dei centri di simulazione di guida sportiva! Trova il centro sim racing più vicino a te sulla mappa di Sim Racing Point"
       },
       "column": {
-        "description": "Scopri il network dei centri di simulazione di guida sportiva! Trova il centro sim racing più vicino a te sulla mappa di Sim Racing Point"
+        "description": "Scopri il network dei centri di simulazione di<br /> guida sportiva! Trova il centro sim racing più<br /> vicino a te sulla mappa di Sim Racing Point"
       },
       "intro": {
         "title": "La tua esperienza di guida virtuale",
@@ -51,7 +51,7 @@
         "title": "Simulatori di guida in {country} - Sim Racing {country}",
         "description": "Scopri il Sim Racing in {country}. Trova i simulatori di guida sportiva in {country} più vicini a te e prova l'esperienza virtuale della simulazione di guida professionale"
       },
-      "heading": "La tua esperienza Sim Racing in {country}"
+      "heading": "La tua esperienza<br /> Sim Racing in {country}"
     },
     "region": {
       "heading": "Simulatori di guida in {location}",
@@ -86,12 +86,12 @@
         },
         "premium": {
           "title": "Piano Premium",
-          "action": "Iscrizione premium",
+          "action": "Iscrizione",
           "perks": {
             "perk1": "Marker sulla nostra mappa",
             "perk2": "Pagina realizzata su misura",
             "perk3": "Richieste di modifica senza limiti",
-            "perk4": "Compari sopra chi ha il piano free",
+            "perk4": "Compari sopra chi è piano free",
             "perk5": "Profili social in evidenza",
             "perk6": "Tags: rally, realtà virtuale, etc"
           }
@@ -104,7 +104,7 @@
             "perk1": "Marker sulla nostra mappa",
             "perk2": "Più pagine realizzate su misura",
             "perk3": "Richieste di modifica senza limiti",
-            "perk4": "Compari sopra chi ha il piano free",
+            "perk4": "Compari sopra chi è piano free",
             "perk5": "Profili social in evidenza",
             "perk6": "Tags: rally, realtà virtuale, etc",
             "perk7": "Logo in evidenza con link esterno",
@@ -117,13 +117,13 @@
   },
   "place": {
     "select": "Seleziona una regione",
-    "noData": "Non ci sono luoghi da visualizzare",
+    "noData": "Non ci sono luoghi da mostrare",
     "add": "Gestisci un locale o realizzi componenti<br /> e desideri comparire sulla mappa?"
   },
   "country": {
     "select": "Seleziona un paese",
     "placeholder": "Mi trovo in",
-    "noData": "Non ci sono paesi da visualizzare"
+    "noData": "Non ci sono paesi da mostrare"
   },
   "region": {
     "select": "Seleziona un continente",

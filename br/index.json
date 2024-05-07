@@ -46,7 +46,7 @@
         "title": "Simuladores de Direção em {country} - Sim Racing {country}",
         "description": "Descubra o Sim Racing em {country}. Encontre os simuladores de direção esportiva mais próximos de você em {country} e experimente a experiência virtual da simulação de direção profissional"
       },
-      "heading": "Sua Experiência de Condução em {country}"
+      "heading": "Sua Experiência de<br /> Condução em {country}"
     },
     "region": {
       "heading": "Simuladores de Corrida em {location}",
@@ -81,12 +81,12 @@
         },
         "premium": {
           "title": "Plano Premium",
-          "action": "Assinatura premium",
+          "action": "Assinatura",
           "perks": {
             "perk1": "Visibilidade no nosso mapa",
             "perk2": "Página feita sob medida",
             "perk3": "Solicitações alteração ilimitadas",
-            "perk4": "Destaque acima dos outros na lista",
+            "perk4": "Destaque acima dos outros",
             "perk5": "Redes sociais mostradas na lista",
             "perk6": "Tags: rally, realidade virtual, etc"
           }
@@ -97,13 +97,13 @@
           "action": "Orçamento",
           "perks": {
             "perk1": "Visibilidade no nosso mapa",
-            "perk2": "Múltiplas páginas feitas sob medida",
+            "perk2": "Solicite páginas personalizadas",
             "perk3": "Solicitações alteração ilimitadas",
-            "perk4": "Destaque acima dos outros na lista",
+            "perk4": "Destaque acima dos outros",
             "perk5": "Redes sociais mostradas na lista",
             "perk6": "Tags: rally, realidade virtual, etc",
-            "perk7": "Logotipo em destaque com link externo",
-            "perk8": "Marcador personalizado no nosso mapa",
+            "perk7": "Logotipo em destaque com link",
+            "perk8": "Marcador personalizado na mapa",
             "perk9": "Pedido de banner dedicado"
           }
         }

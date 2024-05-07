@@ -39,7 +39,7 @@
         "description": "Découvrez notre réseau de centres de simulation de course sportive ! Trouvez le centre de simulation de conduite le plus proche sur Sim Point Racing"
       },
       "column": {
-        "description": "Découvrez notre réseau de centres de simulation de conduite sportive ! Trouvez le centre de simulation le plus proche"
+        "description": "Découvrez notre réseau de centres de<br /> simulation de conduite sportive ! Trouvez<br /> centre de simulation le plus proche"
       },
       "intro": {
         "title": "Votre expérience de conduite virtuelle",
@@ -51,7 +51,7 @@
         "title": "Simulateurs de course en {country} - Sim Racing {country}",
         "description": "Découvrez le Sim Racing en {country}. Trouvez les simulateurs de course les plus proches de vous en {country} et vivez l'expérience virtuelle de la simulation de conduite professionnelle"
       },
-      "heading": "Ton expérience de Sim Racing en {country}"
+      "heading": "Ton expérience de<br /> Sim Racing en {country}"
     },
     "region": {
       "heading": "Simulateurs de course en {location}",
@@ -86,7 +86,7 @@
         },
         "premium": {
           "title": "Plan Premium",
-          "action": "Abonnement premium",
+          "action": "Abonnement",
           "perks": {
             "perk1": "Visible sur notre carte",
             "perk2": "Page sur mesure",
@@ -108,7 +108,7 @@
             "perk5": "Réseaux sociaux affichés dans la liste",
             "perk6": "Tags : rallye, réalité virtuelle, etc",
             "perk7": "Logo mis en avant avec lien externe",
-            "perk8": "Marqueur personnalisé sur notre carte",
+            "perk8": "Marqueur personnalisé sur carte",
             "perk9": "Demande de bannière dédiée"
           }
         }

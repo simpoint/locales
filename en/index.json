@@ -39,7 +39,7 @@
         "description": "Discover our network of sports racing simulation centers! Find the nearest driving simulation center on Sim Point Racing"
       },
       "column": {
-        "description": "Discover our network of sports driving simulation centers! Find the nearest driving simulation center on Sim Point Racing"
+        "description": "Discover our network of sports driving<br /> simulation centers! Find the nearest driving<br /> simulation center on Sim Point Racing"
       },
       "intro": {
         "title": "Your Virtual Driving Experience",
@@ -51,7 +51,7 @@
         "title": "Racing Simulators in {country} - Sim Racing {country}",
         "description": "Discover Sim Racing in {country}. Find the nearest sports car simulators in {country} and experience the virtual driving of professional driving simulations"
       },
-      "heading": "Your Sim Racing Experience in {country}"
+      "heading": "Your Sim Racing<br /> Experience in {country}"
     },
     "region": {
       "heading": "Racing Simulators in {location}",
@@ -86,14 +86,14 @@
         },
         "premium": {
           "title": "Premium Plan",
-          "action": "Premium subscription",
+          "action": "Subscription",
           "perks": {
             "perk1": "Marker on our map",
             "perk2": "Custom-made page",
             "perk3": "Unlimited change requests",
-            "perk4": "Appear above others with free plan",
+            "perk4": "Appear above free plans",
             "perk5": "Highlighted social profiles",
-            "perk6": "Tags: rally, virtual reality, etc",
+            "perk6": "Tags: vr, rally, drift, etc",
             "perk7": "Unlimited change requests"
           }
         },
@@ -105,10 +105,10 @@
             "perk1": "Marker on our map",
             "perk2": "Multiple custom-made pages",
             "perk3": "Unlimited change requests",
-            "perk4": "Appear above others with free plan",
+            "perk4": "Appear above free plans",
             "perk5": "Highlighted social profiles",
-            "perk6": "Tags: rally, virtual reality, etc",
-            "perk7": "Featured logo with external link",
+            "perk6": "Tags: vr, rally, drift, etc",
+            "perk7": "Featured logo and custom link",
             "perk8": "Custom marker icon or color",
             "perk9": "Request a dedicated banner"
           }

@@ -42,7 +42,7 @@
       },
       "intro": {
         "title": "Deine virtuelle Fahrerfahrung",
-        "description": "Entdecke das umfangreiche Netzwerk von Sport-Rennsimulationszentren auf der ganzen Welt mit<br />unserer interaktiven Karte. Finde Orte, um Simulationen zu erleben und mit anderen Enthusiasten in<br />Kontakt zu treten. Dein Abenteuer in der Welt des virtuellen Fahrens beginnt hier."
+        "description": "Entdecke das umfangreiche Netzwerk von Sport-Rennsimulationszentren auf der ganzen Welt mit<br /> unserer interaktiven Karte. Finde Orte, um Simulationen zu erleben und mit anderen Enthusiasten in<br /> Kontakt zu treten. Dein Abenteuer in der Welt des virtuellen Fahrens beginnt hier."
       }
     },
     "country": {
@@ -50,7 +50,7 @@
         "title": "Rennsimulator in {country} - Sim Racing {country}",
         "description": "Entdecken Sie Sim Racing in {country}. Finden Sie die nächstgelegenen Sportwagen-Simulatoren in {country} und erleben Sie das virtuelle Fahrerlebnis professioneller Fahrzeugsimulationen"
       },
-      "heading": "Deine Sim-Racing-Erfahrung in {country}"
+      "heading": "Deine Sim-Racing<br /> Erfahrung in {country}"
     },
     "region": {
       "heading": "Rennsimulator in {location}",
@@ -85,7 +85,7 @@
         },
         "premium": {
           "title": "Premium-Plan",
-          "action": "Premium-Mitgliedschaft",
+          "action": "Mitgliedschaft",
           "perks": {
             "perk1": "Auf der Karte sichtbar",
             "perk2": "Maßgeschneiderte Seite",
@@ -107,7 +107,7 @@
             "perk5": "Soziale Medien in der Liste",
             "perk6": "Tags: Rallye, virtuelle Realität",
             "perk7": "Hervorgehobenes Logo & Link",
-            "perk8": "Benutzerdefiniertes Symbol auf Karte",
+            "perk8": "Benutzerdefiniertes Symbol",
             "perk9": "Anfrage für dedizierten Banner"
           }
         }
@@ -117,7 +117,7 @@
   "place": {
     "select": "Wähle eine Region aus",
     "noData": "Es gibt keine Orte zum Anzeigen",
-    "add": "Besitzen Sie einen Laden oder stellen Sie Komponenten her und möchten auf der Karte erscheinen?"
+    "add": "Sie einen Laden oder Komponenten her<br />und möchten auf der Karte erscheinen?"
   },
   "country": {
     "select": "Land auswählen",

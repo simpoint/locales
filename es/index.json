@@ -39,7 +39,7 @@
         "description": "¡Descubre nuestra red de centros de simulación de carreras deportivas! Encuentra el centro de simulación de conducción más cercano en Sim Point Racing"
       },
       "column": {
-        "description": "¡Descubre nuestra red de centros de simulación de conducción deportiva! Encuentra el centro más cercano"
+        "description": "¡Descubre nuestra red de centros de<br /> simulación de conducción deportiva!<br /> Encuentra el centro más cercano"
       },
       "intro": {
         "title": "Tu experiencia de conducción virtual",
@@ -51,7 +51,7 @@
         "title": "Simuladores de carreras en {country} - Sim Racing {country}",
         "description": "Descubre el Sim Racing en {country}. Encuentra los simuladores de coches deportivos más cercanos en {country} y experimenta la conducción virtual de simulaciones de conducción profesionales"
       },
-      "heading": "Tu experiencia de Sim Racing en {country}"
+      "heading": "Tu experiencia de<br /> Sim Racing en {country}"
     },
     "region": {
       "heading": "Simuladores de carreras en {location}",
@@ -86,13 +86,13 @@
         },
         "premium": {
           "title": "Plan Premium",
-          "action": "Suscripción premium",
+          "action": "Suscripción",
           "perks": {
             "perk1": "Visible en nuestro mapa",
             "perk2": "Página hecha a medida",
             "perk3": "Solicitudes de cambio ilimitadas",
-            "perk4": "Destacado sobre otros en la lista",
-            "perk5": "Redes sociales mostradas en la lista",
+            "perk4": "Destacado sobre otros en lista",
+            "perk5": "Redes sociales mostradas en lista",
             "perk6": "Etiquetas: rally, realidad virtual"
           }
         },
@@ -104,8 +104,8 @@
             "perk1": "Visible en nuestro mapa",
             "perk2": "Varias páginas hechas a medida",
             "perk3": "Solicitudes de cambio ilimitadas",
-            "perk4": "Destacado sobre otros en la lista",
-            "perk5": "Redes sociales mostradas en la lista",
+            "perk4": "Destacado sobre otros en lista",
+            "perk5": "Redes sociales mostradas en lista",
             "perk6": "Etiquetas: rally, realidad virtual",
             "perk7": "Logo destacado con enlace externo",
             "perk8": "Marcador personalizado",
